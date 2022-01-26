@@ -11,15 +11,15 @@
 <p> Description: Projeto Final DevSchol Java e Spring </p>
 <p> Package name: spring-jpa-projec </p>
 
-<h2> Dependências </h2>
-<h2> spring web - servidor de aplicação </p>
-<h2> thymeleaf - engine para criação de interfaces web </p>
-<h2> validation - validação dos beans(campos dos formularios) </p>
-<h2> spring data JPA - percistencia de dados </p>
-<h2> spring session - gerenciamento de sessoes de usuarios </p>
-<h2> spring boot devtools - restarts, livereload </p>
-<h2> h2 database - banco de dados de memoria(embutido) </p>
-<h2> spring security </p>
+<p> Dependências </p>
+<p> spring web - servidor de aplicação </p>
+<p> thymeleaf - engine para criação de interfaces web </p>
+<p> validation - validação dos beans(campos dos formularios) </p>
+<p> spring data JPA - percistencia de dados </p>
+<p> spring session - gerenciamento de sessoes de usuarios </p>
+<p> spring boot devtools - restarts, livereload </p>
+<p> h2 database - banco de dados de memoria(embutido) </p>
+<p> spring security </p>
 
 <h2> Pacotes </h2>
 
