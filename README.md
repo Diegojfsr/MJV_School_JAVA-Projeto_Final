@@ -11,7 +11,7 @@
 <p> Description: Projeto Final DevSchol Java e Spring </p>
 <p> Package name: spring-jpa-projec </p>
 
-<p> Dependências </p>
+<h2> Dependências </h2>
 <p> spring web - servidor de aplicação </p>
 <p> thymeleaf - engine para criação de interfaces web </p>
 <p> validation - validação dos beans(campos dos formularios) </p>
