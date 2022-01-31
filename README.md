@@ -28,15 +28,15 @@
 <h2> Referências </h2>
 
  <p> Para esse projeto usei conhecimentos e alguns recursos passados durante o decorrer do curso.
-  Esse projeto teve como base outro 3 projetos diferentes, sendo eles:</P>
- <p> 1- Projeto spring que foi utilizado durante as aulas, e disponibilizado pelo professor: "Gleyson Sampaio". </P>
- <p> 2- Projeto de Programação Web com Spring Boot, disponibilizado pelo professor: "Willian Oizumi". </P>
- <p> 3- Projeto Java com JPA disponibilizado pelo professor: "Kane Chan". </P>
+  Esse projeto teve como base outros 4 projetos diferentes, sendo eles:</P>
+ <p> 1 - Projeto spring que foi utilizado durante as aulas, e disponibilizado pelo professor: "Gleyson Sampaio". </P>
+ <p> 2 - Projeto "Lista de Convidados" Curso Spring Boot disponibilizado pela professora: "Michelli Brito". </P>
+ <p> 3 - Projeto de Programação Web com Spring Boot, disponibilizado pelo professor: "Willian Oizumi". </P>
+ <p> 4 - Projeto CRUD Angular + Spring disponibilizado pela professora: "Loiane Groner". </p>
+ <p> 5 - Projeto Java com JPA disponibilizado pelo professor: "Kane Chan". </P>
  
 <h2> Mais Referências </h2>
 
-<p> CRUD Angular + Spring - Loiane Groner</p>
-<p> Curso Spring Boot - Michelli Brito </p>
 <p> Spring.io </p>
 <p> Baeldung.com </p>
 <p> Dzone.com </p>
