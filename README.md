@@ -27,11 +27,10 @@
 
 <h2> Referências </h2>
 
-<p>
-  Para esse projeto usei conhecimentos e alguns recursos passados durante o decorrer do curso.
-  Esse projeto teve como base outro 3 projetos diferentes, sendo eles:
-  1- Prjeto spring que foi utilizado durante as aulas, e disponibilizado pelo professor: "Gleyson Sampaio".
-  2- Projeto de Programação Web com Spring Boot, disponibilizado pelo professor: "Willian Oizumi".
-  3- Projeto Java com JPA disponibilizado pelo professor: "Kane Chan".
-</P>
+ <p> Para esse projeto usei conhecimentos e alguns recursos passados durante o decorrer do curso.
+  Esse projeto teve como base outro 3 projetos diferentes, sendo eles:</P>
+ <p> 1- Prjeto spring que foi utilizado durante as aulas, e disponibilizado pelo professor: "Gleyson Sampaio". </P>
+ <p> 2- Projeto de Programação Web com Spring Boot, disponibilizado pelo professor: "Willian Oizumi". </P>
+ <p> 3- Projeto Java com JPA disponibilizado pelo professor: "Kane Chan". </P>
+
 
