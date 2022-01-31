@@ -32,5 +32,18 @@
  <p> 1- Prjeto spring que foi utilizado durante as aulas, e disponibilizado pelo professor: "Gleyson Sampaio". </P>
  <p> 2- Projeto de Programação Web com Spring Boot, disponibilizado pelo professor: "Willian Oizumi". </P>
  <p> 3- Projeto Java com JPA disponibilizado pelo professor: "Kane Chan". </P>
+ 
+<h2> Mais Referências </h2>
+
+<p> CRUD Angular + Spring - Loiane Groner</p>
+<p> Curso Spring Boot - Michelli Brito </p>
+<p> Spring.io </p>
+<p> Baeldung.com </p>
+<p> Dzone.com </p>
+
+
+
+
+
 
 
